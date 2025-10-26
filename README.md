@@ -65,7 +65,7 @@ This project is licensed under the **MIT License**.
 
 This project was created by **Esraa Mahmoud Hamza**.
 If you use, modify, or share this project, you **must give proper credit** by linking back to the original repository:
-👉 [https://github.com/esraamahmoudhamza/coffee-shop-ui](https://github.com/esraamahmoudhamza/coffee-shop-ui)
+👉 [https://github.com/esraamahmoudhamza/Smart-Calculator-Chatbot-HTML-CSS-JavaScript-Project](https://github.com/esraamahmoudhamza/Smart-Calculator-Chatbot-HTML-CSS-JavaScript-Project)
 
 © 2025 Esraa Mahmoud Hamza. All rights reserved.
 
